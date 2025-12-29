@@ -1,0 +1,32 @@
+[00:22:45.253] Server  ERROR   Error: Cannot find module 'next/dist/compiled/cookie'
+Require stack:
+- /home/aness/Desktop/Equillibra/node_modules/next/dist/server/api-utils/get-cookie-parser.js
+- /home/aness/Desktop/Equillibra/node_modules/next/dist/shared/lib/router/utils/prepare-destination.js
+- /home/aness/Desktop/Equillibra/node_modules/next/dist/shared/lib/router/utils/middleware-route-matcher.js
+- /home/aness/Desktop/Equillibra/node_modules/next/dist/server/lib/router-utils/filesystem.js
+- /home/aness/Desktop/Equillibra/node_modules/next/dist/server/lib/router-server.js
+- /home/aness/Desktop/Equillibra/node_modules/next/dist/server/lib/start-server.js
+[00:22:45.310] Server  ERROR   Error: Cannot find module 'next/dist/compiled/cookie'
+Require stack:
+- /home/aness/Desktop/Equillibra/node_modules/next/dist/server/api-utils/get-cookie-parser.js
+- /home/aness/Desktop/Equillibra/node_modules/next/dist/shared/lib/router/utils/prepare-destination.js
+- /home/aness/Desktop/Equillibra/node_modules/next/dist/shared/lib/router/utils/middleware-route-matcher.js
+- /home/aness/Desktop/Equillibra/node_modules/next/dist/server/lib/router-utils/filesystem.js
+- /home/aness/Desktop/Equillibra/node_modules/next/dist/server/lib/router-server.js
+- /home/aness/Desktop/Equillibra/node_modules/next/dist/server/lib/start-server.js
+[00:22:45.401] Server  ERROR   Error: Cannot find module 'next/dist/compiled/cookie'
+Require stack:
+- /home/aness/Desktop/Equillibra/node_modules/next/dist/server/api-utils/get-cookie-parser.js
+- /home/aness/Desktop/Equillibra/node_modules/next/dist/shared/lib/router/utils/prepare-destination.js
+- /home/aness/Desktop/Equillibra/node_modules/next/dist/shared/lib/router/utils/middleware-route-matcher.js
+- /home/aness/Desktop/Equillibra/node_modules/next/dist/server/lib/router-utils/filesystem.js
+- /home/aness/Desktop/Equillibra/node_modules/next/dist/server/lib/router-server.js
+- /home/aness/Desktop/Equillibra/node_modules/next/dist/server/lib/start-server.js
+[00:22:45.471] Server  ERROR   Error: Cannot find module 'next/dist/compiled/cookie'
+Require stack:
+- /home/aness/Desktop/Equillibra/node_modules/next/dist/server/api-utils/get-cookie-parser.js
+- /home/aness/Desktop/Equillibra/node_modules/next/dist/shared/lib/router/utils/prepare-destination.js
+- /home/aness/Desktop/Equillibra/node_modules/next/dist/shared/lib/router/utils/middleware-route-matcher.js
+- /home/aness/Desktop/Equillibra/node_modules/next/dist/server/lib/router-utils/filesystem.js
+- /home/aness/Desktop/Equillibra/node_modules/next/dist/server/lib/router-server.js
+- /home/aness/Desktop/Equillibra/node_modules/next/dist/server/lib/start-server.js
